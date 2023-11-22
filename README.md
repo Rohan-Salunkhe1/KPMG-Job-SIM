@@ -1,6 +1,6 @@
 # KPMG Data Analytics Job Simulation Project #
 
-
+ 
 ## Overview
 Welcome to my KPMG Data Analytics Job Simulation project repository! This project showcases my solutions and documentation for the KPMG Data Analytics Job Simulation on Forage. 
 

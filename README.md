@@ -1,6 +1,5 @@
 # KPMG Data Analytics Job Simulation Project #
 
-![KPMG Logo](kpmg_logo.png)
 
 ## Overview
 Welcome to my KPMG Data Analytics Job Simulation project repository! This project showcases my solutions and documentation for the KPMG Data Analytics Job Simulation on Forage. 
@@ -57,14 +56,13 @@ We performed the preliminary data exploration and identify ways to improve the q
 * Presenting the data in form of a visualization in tableau.
 
 
-...
+
 
 ## Solutions
 Provide links or explanations for each of your solutions. Include code snippets, visualizations, or any other relevant details.
 
-* Task 1 - Performed the analysis of the data quality and found the following issues.
+* Task 1 - [Performed the analysis of the data quality and found the following issues](Task1_DataQualityIssues.xlsx).
   
-
 * Task 2 - [Analysed the cleaned data on set parameters and presented the findings](Task2PPT.pdf).
   
 * Task 3 - [Shared the finding as visualization in tableau](https://public.tableau.com/views/KPMGfindashboard/FinalKPMGdash?:language=en-US&:display_count=n&:origin=viz_share_link).

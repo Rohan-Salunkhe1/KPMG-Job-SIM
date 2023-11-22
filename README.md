@@ -9,15 +9,8 @@ Welcome to my KPMG Data Analytics Job Simulation project repository! This projec
 
 - [Introduction](#introduction)
 - [Tasks](#tasks)
-- [Files and Directory Structure](#files-and-directory-structure)
-- [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Data](#data)
 - [Solutions](#solutions)
 - [Conclusion](#conclusion)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
-- [License](#license)
 
 ## Introduction
 
@@ -66,16 +59,13 @@ We performed the preliminary data exploration and identify ways to improve the q
 
 ...
 
-## Data
-Briefly describe the dataset used in the simulation. Include any important details about the data, such as the source and format.
-
 ## Solutions
 Provide links or explanations for each of your solutions. Include code snippets, visualizations, or any other relevant details.
 
 * Task 1 - Performed the analysis of the data quality and found the following issues.
   
 
-* Task 2 - Analysed the cleaned data on set parameters and presented the findings.
+* Task 2 - Analysed the cleaned data on set parameters and presented the findings(KPMG PPT.pdf).
   
 * Task 3 - Shared the finding as visualization in tableau.
 ...

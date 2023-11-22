@@ -67,8 +67,9 @@ Provide links or explanations for each of your solutions. Include code snippets,
 
 * Task 2 - [Analysed the cleaned data on set parameters and presented the findings](Task2PPT.pdf).
   
-* Task 3 - Shared the finding as visualization in tableau.
-...
+* Task 3 - [Shared the finding as visualization in tableau](https://public.tableau.com/views/KPMGfindashboard/FinalKPMGdash?:language=en-US&:display_count=n&:origin=viz_share_link).
+
+
 ## Conclusion
 Summarize your overall experience with the KPMG Data Analytics Job Simulation. Reflect on the skills you applied, challenges you overcame, and any key takeaways.
 

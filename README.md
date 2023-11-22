@@ -69,13 +69,8 @@ Provide links or explanations for each of your solutions. Include code snippets,
 
 
 ## Conclusion
-Summarize your overall experience with the KPMG Data Analytics Job Simulation. Reflect on the skills you applied, challenges you overcame, and any key takeaways.
+Completing the KPMG Data Analytics Job Simulation on Forage has been an enriching experience, providing valuable insights into the practical aspects of a data analytics role. As I reflect on the tasks and challenges encountered throughout the simulation, several key takeaways emerge:
 
-## Acknowledgments
-If you used any external resources or references, acknowledge them in this section.
+The simulation allowed me to apply and enhance a range of data analytics skills, from exploratory data analysis to data cleaning and visualization. Working on real-world tasks reinforced my understanding of various analytical techniques and their application in solving business problems.
 
-## Contact
-Provide your contact information (e.g., GitHub profile, LinkedIn) for collaboration or questions.
-
-## License
-Specify the license under which you're releasing your project (e.g., MIT License).
+[Here is my certificate of completion](KPMG_certificate.pdf)

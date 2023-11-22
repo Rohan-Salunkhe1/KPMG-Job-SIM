@@ -13,7 +13,7 @@ Welcome to my KPMG Data Analytics Job Simulation project repository! This projec
 
 ## Introduction
 
-Welcome to my KPMG Data Analytics Job Simulation project! My name is Rohan Salunkhe, and I am excited to share my journey and insights gained from completing the KPMG Data Analytics Job Simulation on Forage.
+My name is Rohan Salunkhe, and I am really excited to share my journey and insights gained from completing the KPMG Data Analytics Job Simulation on Forage.
 
 ### Motivation
 
@@ -69,7 +69,7 @@ Provide links or explanations for each of your solutions. Include code snippets,
 
 
 ## Conclusion
-Completing the KPMG Data Analytics Job Simulation on Forage has been an enriching experience, providing valuable insights into the practical aspects of a data analytics role. As I reflect on the tasks and challenges encountered throughout the simulation, several key takeaways emerge:
+Completing the KPMG Data Analytics Job Simulation on Forage has been an enriching experience, providing valuable insights into the practical aspects of a data analytics role.
 
 The simulation allowed me to apply and enhance a range of data analytics skills, from exploratory data analysis to data cleaning and visualization. Working on real-world tasks reinforced my understanding of various analytical techniques and their application in solving business problems.
 

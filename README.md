@@ -65,7 +65,7 @@ Provide links or explanations for each of your solutions. Include code snippets,
 * Task 1 - Performed the analysis of the data quality and found the following issues.
   
 
-* Task 2 - Analysed the cleaned data on set parameters and presented the findings(KPMG PPT.pdf).
+* Task 2 - [Analysed the cleaned data on set parameters and presented the findings](KPMGPPT.pdf).
   
 * Task 3 - Shared the finding as visualization in tableau.
 ...
